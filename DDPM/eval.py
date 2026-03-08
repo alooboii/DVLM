@@ -512,17 +512,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
-# ```
-
-# ---
-
-# A few things worth knowing before you run these:
-
-# The file layout should be exactly:
-# ```
-# diffusion/__init__.py
-# diffusion/schedule.py
-# diffusion/forward.py
-# diffusion/posterior.py
-# diffusion/ddpm.py
+    main() 
